@@ -1,0 +1,9 @@
+1. Copy .kys file here
+CC Keyboard Presets folder
+C:\Users\yourname\AppData\Roaming\Adobe\Adobe Photoshop CC 2015\Presets\Keyboard Shortcuts
+
+C:\Users\yourname\AppData\Roaming\Adobe\Adobe Photoshop CC 2015.5\Presets\Keyboard Shortcuts
+
+2. Launch Photoshop
+
+3. Select .kys file in Edit -> Keyboard Shortcuts -> Set dropdown
