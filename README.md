@@ -3,7 +3,7 @@
 
 UA-Ps is created to simplify everyday tasks with shortcuts for often used features, to harness the power of actions, and to make use of the 48 keyboard shortcut combinations that actions can have.
 
-![Cheat Sheet](https://raw.githubusercontent.com/ins/UltimateActions-for-Photoshop/master/ua_grid_ps_1.8.3.png)
+![Cheat Sheet](https://raw.githubusercontent.com/ins/UltimateActions-for-Photoshop/master/UA-Ps Cheat Sheet 1.8.3.png)
 
 No need to mouse around or dig in menus to
 – rename, arrange, flip, rotate or align layers
