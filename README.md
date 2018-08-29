@@ -6,15 +6,15 @@ UA-Ps is created to simplify everyday tasks with shortcuts for often used featur
 
 ![Ultimate Actions for Photoshop Cheat Sheet](https://raw.githubusercontent.com/ins/UltimateActions-Ps/master/UA-Ps_Cheat_Sheet_1.8.3.png)
 
-No need to mouse around or dig in menus to 
-– rename, arrange, flip, rotate or align layers 
-– copy, paste or clear layer styles 
-– create, update or cycle through layer comps 
-– create or open smart objects 
-– select layer or group transparency 
-– create and apply masks from a selection 
-– change point text alignment while keeping it in place 
-– turn black and white layers to black and transparent 
+No need to mouse around or dig in menus to  
+– rename, arrange, flip, rotate or align layers  
+– copy, paste or clear layer styles  
+– create, update or cycle through layer comps  
+– create or open smart objects  
+– select layer or group transparency  
+– create and apply masks from a selection  
+– change point text alignment while keeping it in place  
+– turn black and white layers to black and transparent  
 and some more...
 
 **Simply add the actions to Photoshop with a double-click and use the F keys (F1 - F12) with all combinations of Shift and Cmd (Ctrl on Windows) to speed up your workflow.**
