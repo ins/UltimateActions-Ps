@@ -3,7 +3,7 @@
 
 UA-Ps is created to simplify everyday tasks with shortcuts for often used features, to harness the power of actions, and to make use of the 48 keyboard shortcut combinations that actions can have.
 
-![Cheat Sheet](https://raw.githubusercontent.com/ins/UltimateActions-for-Photoshop/master/UA-Ps Cheat Sheet 1.8.3.png)
+![Ultimate Actions for Photoshop Cheat Sheet](https://raw.githubusercontent.com/ins/UltimateActions-for-Photoshop/master/UA-Ps_Cheat_Sheet_1.8.3.png)
 
 No need to mouse around or dig in menus to
 – rename, arrange, flip, rotate or align layers
@@ -22,5 +22,8 @@ and some more...
 1. Download the latest zip https://github.com/ins/UltimateActions-Ps/archive/master.zip and extract.
 2. Find and double-click the *Ultimate Actions PS v1.8.3 macOS.atn* file in the *macOS* folder to have it appear in the Actions panel in Photoshop.
 3. Manually add F1 shortcut to Rename Layer in Photoshop. *Edit — Keyboard Shortcuts — Shortcuts for: Application Menus — Layer — Rename Layer...*
+![Rename Layer F1](https://raw.githubusercontent.com/ins/UltimateActions-for-Photoshop/master/macOS/Rename_Layer_Shortcut.png)
 4. Turn on *Use F1, f2 etc. keys as standard function keys* in *System Preferences — Keyboard — Keyboard*
+![Standard function keys](https://raw.githubusercontent.com/ins/UltimateActions-for-Photoshop/master/macOS/Use_F_keys_as_standard_function_keys.png)
 5. Turn off cmdF5 Shortcut for VoiceOver in *System Preferences — Keyboard — Shorotcuts — Accessibility — Turn VoiceOver on or off*
+![Turn off VoiceOver](https://raw.githubusercontent.com/ins/UltimateActions-for-Photoshop/master/macOS/Turn_off_VoiceOver_shortcut.png)
