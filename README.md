@@ -31,5 +31,5 @@ and some more...
 ## Installation for Windows:
 1. Download the latest zip https://github.com/ins/UltimateActions-Ps/archive/master.zip and extract.
 2. Find and double-click the *Ultimate Actions PS v1.8.3 Win.atn* file in the *Windows* folder to have it appear in the Actions panel in Photoshop.
-3. On Windows, F1 as a shortcut is disabled for Actions, so we add 4 keyboard shortcuts to Photoshop with a keyboard shortcuts preset file. Copy *UA-Ps_F1keys_Win.kys* from the *Windows* folder to Photoshop's presets folder *C:\Users\yourname\AppData\Roaming\Adobe\Adobe Photoshop CC 201X\Presets\Keyboard Shortcuts*
-4. In Photoshop select our Keyboard Shortcut Preset in *Edit — Keyboard Shortcuts — Set dropdown
+3. On Windows, F1 as a shortcut is disabled for Actions, so we add 4 keyboard shortcuts to Photoshop with a keyboard shortcuts preset file. Copy *UA-Ps_F1keys_Win.kys* from the *Windows* folder to Photoshop's presets folder *C:\Users\yourname\AppData\Roaming\Adobe\Adobe Photoshop CC 201X\Presets\Keyboard Shortcuts*.
+4. In Photoshop select our Keyboard Shortcut Preset in *Edit — Keyboard Shortcuts — Set dropdown*.
