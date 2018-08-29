@@ -4,8 +4,6 @@
 UA-Ps is created to simplify everyday tasks with shortcuts for often used features, to harness the power of actions, and to make use of the 48 keyboard shortcut combinations that actions can have.  
 [Download](https://github.com/ins/UltimateActions-Ps/archive/master.zip)
 
-![Ultimate Actions for Photoshop Cheat Sheet](https://raw.githubusercontent.com/ins/UltimateActions-Ps/master/UA-Ps_Cheat_Sheet_1.8.3.png)
-
 No need to mouse around or dig in menus to  
 – rename, arrange, flip, rotate or align layers  
 – copy, paste or clear layer styles  
@@ -18,6 +16,8 @@ No need to mouse around or dig in menus to
 and some more...
 
 **Simply add the actions to Photoshop with a double-click and use the F keys (F1 - F12) with all combinations of Shift and Cmd (Ctrl on Windows) to speed up your workflow.**
+
+![Ultimate Actions for Photoshop Cheat Sheet](https://raw.githubusercontent.com/ins/UltimateActions-Ps/master/UA-Ps_Cheat_Sheet_1.8.3.png)
 
 ## Explanation of some actions with too short name 
 **cmd+F5 — Convert Text Type**  
