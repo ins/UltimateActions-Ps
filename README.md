@@ -1,4 +1,4 @@
-# Ultimate Actions for Photoshop
+# (UA-Ps) Ultimate Actions for Photoshop
 **Simple actions for everyday use**
 
 UA-Ps is created to simplify everyday tasks with shortcuts for often used features, to harness the power of actions, and to make use of the 48 keyboard shortcut combinations that actions can have.
