@@ -19,6 +19,19 @@ and some more...
 
 **Simply add the actions to Photoshop with a double-click and use the F keys (F1 - F12) with all combinations of Shift and Cmd (Ctrl on Windows) to speed up your workflow.**
 
+## Explanation of some actions with too short name 
+**cmd+F5 — Convert Text Type**  
+Convert Paragraph Text to Point Text and vice versa.
+
+**shift+cmd+F5/F6/F7 — Left/Center/Right Align Point Text**  
+Change text alignment while keeping text in place.
+
+**cmd+F6 — Extract Black**  
+Turns a black and white layer to black and transparent
+
+**shift+cmd+F8 — Copy Color's Hex Code**  
+Copy foreground color's hex code to clipboard
+
 ## Installation for macOS:
 1. [Download the latest zip](https://github.com/ins/UltimateActions-Ps/archive/master.zip) and extract.
 2. Find and double-click the *Ultimate Actions PS v1.8.3 macOS.atn* file in the *macOS* folder to have it appear in the Actions panel in Photoshop.
