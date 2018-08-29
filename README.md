@@ -18,7 +18,7 @@ and some more...
 
 **Simply add the actions to Photoshop with a double-click and use the F keys (F1 - F12) with all combinations of Shift and Cmd (Ctrl on Windows) to speed up your workflow.**
 
-##Installation for macOS:
+## Installation for macOS:
 1. Download the latest zip https://github.com/ins/UltimateActions-Ps/archive/master.zip and extract.
 2. Find and double-click the *Ultimate Actions PS v1.8.3 macOS.atn* file in the *macOS* folder to have it appear in the Actions panel in Photoshop.
 3. Manually add F1 shortcut to Rename Layer in Photoshop. *Edit — Keyboard Shortcuts — Shortcuts for: Application Menus — Layer — Rename Layer...*
