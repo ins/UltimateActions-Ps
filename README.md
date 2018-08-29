@@ -1,7 +1,8 @@
 # (UA-Ps) Ultimate Actions for Photoshop
 **Simple actions for everyday use**
 
-UA-Ps is created to simplify everyday tasks with shortcuts for often used features, to harness the power of actions, and to make use of the 48 keyboard shortcut combinations that actions can have.
+UA-Ps is created to simplify everyday tasks with shortcuts for often used features, to harness the power of actions, and to make use of the 48 keyboard shortcut combinations that actions can have.  
+[Download](https://github.com/ins/UltimateActions-Ps/archive/master.zip)
 
 ![Ultimate Actions for Photoshop Cheat Sheet](https://raw.githubusercontent.com/ins/UltimateActions-Ps/master/UA-Ps_Cheat_Sheet_1.8.3.png)
 
@@ -19,7 +20,7 @@ and some more...
 **Simply add the actions to Photoshop with a double-click and use the F keys (F1 - F12) with all combinations of Shift and Cmd (Ctrl on Windows) to speed up your workflow.**
 
 ## Installation for macOS:
-1. Download the latest zip https://github.com/ins/UltimateActions-Ps/archive/master.zip and extract.
+1. [Download the latest zip](https://github.com/ins/UltimateActions-Ps/archive/master.zip) and extract.
 2. Find and double-click the *Ultimate Actions PS v1.8.3 macOS.atn* file in the *macOS* folder to have it appear in the Actions panel in Photoshop.
 3. Manually add F1 shortcut to Rename Layer in Photoshop. *Edit — Keyboard Shortcuts — Shortcuts for: Application Menus — Layer — Rename Layer...*
 ![Rename Layer F1](https://raw.githubusercontent.com/ins/UltimateActions-Ps/master/macOS/Rename_Layer_Shortcut.png)
@@ -29,7 +30,7 @@ and some more...
 ![Turn off VoiceOver](https://raw.githubusercontent.com/ins/UltimateActions-Ps/master/macOS/Turn_off_VoiceOver_shortcut.png)
 
 ## Installation for Windows:
-1. Download the latest zip https://github.com/ins/UltimateActions-Ps/archive/master.zip and extract.
+1. [Download the latest zip](https://github.com/ins/UltimateActions-Ps/archive/master.zip) and extract.
 2. Find and double-click the *Ultimate Actions PS v1.8.3 Win.atn* file in the *Windows* folder to have it appear in the Actions panel in Photoshop.
 3. On Windows, F1 as a shortcut is disabled for Actions, so we add 4 keyboard shortcuts to Photoshop with a keyboard shortcuts preset file. Copy *UA-Ps_F1keys_Win.kys* from the *Windows* folder to Photoshop's presets folder *C:\Users\yourname\AppData\Roaming\Adobe\Adobe Photoshop CC 201X\Presets\Keyboard Shortcuts*.
 4. In Photoshop select our Keyboard Shortcut Preset in *Edit — Keyboard Shortcuts — Set dropdown*.
